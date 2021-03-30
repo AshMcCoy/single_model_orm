@@ -1,0 +1,44 @@
+#wrapper    {
+    height: 1100px;
+    background: aliceblue;
+}
+thead   {
+    color: blue;
+    text-align: left;
+}
+h1  {
+    text-align: center;
+    padding: 10px 0px 0px 10px;
+    margin: 5px;
+}
+table   {
+    height: 115px;
+    width: 45%;
+    margin: auto;
+}
+table, th, td {
+    border: 1px solid black;
+}
+#th_id  {
+    width: 25px;
+}
+#th_name    {
+    width: 225px;
+}
+#th_email   {
+    width: 310px;
+}
+#th_age {
+    width: 30px;
+}
+form    {
+    text-align: center;
+}
+.form_container {
+    border-top: 3px solid black;
+    margin: 25px auto;
+    width: 55%;
+}
+.bottom_form    {
+    margin: 7px;
+}
